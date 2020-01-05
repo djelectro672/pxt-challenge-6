@@ -1,0 +1,17 @@
+{
+    "name": "challenge 6",
+    "dependencies": {
+        "adafruit-feather-m0-express": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
